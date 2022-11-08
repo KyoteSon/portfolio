@@ -11,6 +11,7 @@ main {
 .gallery-item {
   position: relative;
   overflow: hidden;
+  padding: 1rem;
 }
 
 .gallery-item:hover .overlay {
